@@ -11,4 +11,7 @@ github
 |  
 |---demo_3dtalk  
 |---multislider  
+|---ganjifangqi  
+|---rubik  
+|---2048  
 |---...
