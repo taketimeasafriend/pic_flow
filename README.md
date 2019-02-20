@@ -9,9 +9,9 @@
 
 - github  
   |  
-  |---demo_3dtalk  
-  |---multislider  
-  |---ganjifangqi  
-  |---rubik  
   |---2048  
+  |---demo_3dtalk  
+  |---ganjifangqi  
+  |---multislider  
+  |---rubik  
   |---...
