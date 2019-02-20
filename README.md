@@ -7,11 +7,11 @@
 
 ## pics 4 other test_github_rep
 
-github  
-|  
-|---demo_3dtalk  
-|---multislider  
-|---ganjifangqi  
-|---rubik  
-|---2048  
-|---...
+- github  
+  |  
+  |---demo_3dtalk  
+  |---multislider  
+  |---ganjifangqi  
+  |---rubik  
+  |---2048  
+  |---...
